@@ -1,0 +1,12 @@
+.jumbotron {
+	text-align: center;
+	background-image: url("image.jpg");
+	background-size: cover;
+	font-weight: bolder;
+	color: #FAF3FD;
+	border: 2px inset #ddd
+}
+
+body {
+	background-color: #694F90
+}
